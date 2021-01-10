@@ -1,2 +1,2 @@
 # wireless-communication
-some notes and codes in wireless communication area
+some codes in wireless communication area
