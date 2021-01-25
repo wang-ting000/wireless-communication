@@ -1,2 +1,3 @@
-# wireless-communication
-some codes in wireless communication area
+# 一些关于通信方面的问题和回答
+
+## 什么是**等效基带信号**？其意义是？
