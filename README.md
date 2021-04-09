@@ -1,4 +1,6 @@
-## ![![](https://img.shields.io/badge/-%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%8D%9F%E8%80%97%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%BF%E7%9C%9F-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/pathloss.m)
+## [![](https://img.shields.io/badge/-%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%8D%9F%E8%80%97%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%BF%E7%9C%9F-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/pathloss.m)
+
+## [![](https://img.shields.io/badge/-%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BB%BF%E7%9C%9F-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91.py)
 
 #本项目收集了无线通信基础的书本资源和本人笔记以及习题记录
 
