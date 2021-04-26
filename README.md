@@ -2,6 +2,8 @@
 
 ## [![](https://img.shields.io/badge/-%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BB%BF%E7%9C%9F-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91.py)
 
+## [![](https://img.shields.io/badge/-%E5%B9%B3%E5%9D%A6%E8%A1%B0%E8%90%BDJake%E6%A8%A1%E5%9E%8B%E4%BB%BF%E7%9C%9F-lightgrey)](avg_flat.m)
+
 #本项目收集了无线通信基础的书本资源和本人笔记以及习题记录
 
 # 一些关于通信方面的问题和回答
