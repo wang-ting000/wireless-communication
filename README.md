@@ -2,7 +2,10 @@
 
 ## [![](https://img.shields.io/badge/-%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BB%BF%E7%9C%9F-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/%E7%9B%B4%E6%8E%A5%E6%89%A9%E9%A2%91.py)
 
-## [![](https://img.shields.io/badge/-%E5%B9%B3%E5%9D%A6%E8%A1%B0%E8%90%BDJake%E6%A8%A1%E5%9E%8B%E4%BB%BF%E7%9C%9F-lightgrey)](avg_flat.m)
+## [![](https://img.shields.io/badge/-%E5%B9%B3%E5%9D%A6%E8%A1%B0%E8%90%BDJake%E6%A8%A1%E5%9E%8B%E4%BB%BF%E7%9C%9F-lightgrey)](avg_flat.m)  
+
+## [![](https://img.shields.io/badge/-%E6%B3%A8%E6%B0%B4%E6%B3%95%E7%A4%BA%E6%84%8F%E5%9B%BE-lightgrey)](https://github.com/wang-ting000/wireless-communication/blob/main/%E6%B3%A8%E6%B0%B4%E6%B3%95.py)  
+** 注水法的作用是在*独立*的并联信道中分配功率以达到信道容量最大化；基本思路就是先对信道的噪声功率进行排序，再以最大的噪声功率为功率限制，计算信道的信号功率之和，若不超过限制功率，则继续均分功率；若超过限制功率，则去掉最大的噪声重复进行计算
 
 #本项目收集了无线通信基础的书本资源和本人笔记以及习题记录
 
